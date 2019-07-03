@@ -1,0 +1,55 @@
+body
+{
+  background: url("img_mayday2.jpg") repeat; 
+  height:100%;
+  width:100%;
+  overflow: hidden;
+  background-size: cover;
+  padding-left: 200px;
+  padding-top: 100px;
+}
+a{
+	text-decoration: none;
+	color: black;
+}
+.name{
+  /*position: absolute;
+  right: 650px;
+ */ 
+  width:300px;
+
+  height: 100px;
+  border:1px solid #909090;
+  box-shadow:0px 0px 5px 1px #909090 inset ;
+  text-align: 0;
+  line-height: 30px;
+ }
+.time
+{
+  width:150px;
+  height: 30px;
+  text-align: center;
+  float: right
+}
+.text
+{
+  width:800px;
+  height: 400px;
+  /*---border:1px solid #909090;
+  box-shadow:0px 0px 5px 1px #909090 inset ;
+  */
+  text-align: 0;
+  line-height: 30px;
+}
+p {text-indent: 3em;}
+.info{
+  width:600px;
+  height: 200px;
+  text-align: left;
+  line-height: 19px;
+ }
+img
+{
+	height:100px;
+	border-radius: 18px;
+}
