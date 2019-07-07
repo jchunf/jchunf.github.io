@@ -4,6 +4,7 @@ body
   height:100%;
   width:100%;
   overflow: hidden;
+  overflow-y: auto;
   background-size: cover;
   padding-left: 200px;
   padding-top: 100px;
